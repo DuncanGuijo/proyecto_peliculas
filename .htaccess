@@ -1,0 +1,7 @@
+RewriteEngine On
+Options All -Indexes
+ReWriteRule ^([a-zA-Z0-9/ñÑ-]+)$ index.php?views=$1
+php_value display_errors Off
+php_value mbstring.http_input auto
+php_value date.timezone America/New_York
+ErrorDocument 404 http://duncanguijo.infinityfreeapp.com/404.php
