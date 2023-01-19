@@ -4,3 +4,7 @@ En el repositorio encontrarás un pdf llamado "Guia de instalacion" con toda la 
 El archivo "peliculas.sql" contiene un usuario administrador y otro usuario normal para poder tener acceso a ambas partes de la página.
 
 Esta página web a sido realizada con PHP, Mysql, Java Script y librerías como Data Tables para la creación de tablas o Chart para la creación de gráficos, CSS 100% propio excepto en la parte del administrador en la cual se utiliza una plantilla, Bootstrap y HTML.
+
+En el siguiente enlace encontrarás un ejemplo de como queda el proyecto una vez implementado:
+
+http://duncanguijo.infinityfreeapp.com/
