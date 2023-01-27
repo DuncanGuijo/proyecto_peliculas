@@ -25,6 +25,5 @@ http://duncanguijo.infinityfreeapp.com/
 <li>Descargar en fichero zip o clonar desde github.</li>
 <li>Crear BD peliculas en MySql mediante el fichero peliculas.sql.</li>
 <li>Configurar el sitio en los ficheros de configuración: admin/inc_config.php</li>
-<li> https://github.com/albertomozo/proyectofinal/blob/main/admin/inc_config.php.</li>
 </ul>
 
