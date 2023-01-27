@@ -16,7 +16,7 @@ http://duncanguijo.infinityfreeapp.com/
 <li>MySql</li>
 <li>Apache</li>
 <li>Api Key de https://www.themoviedb.org</li>
-<li>Plantilla bootstrap pagina privada Start Bootstrap - SB Admin 2 admin/README.md</li>
+<li>Plantilla bootstrap para el panel de administrador: https://startbootstrap.com/theme/sb-admin-2</li>
 </ul>
 
 <h2>INSTALACIÓN</h2>
